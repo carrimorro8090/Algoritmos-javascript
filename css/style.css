@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+    font-family: 'Permanent Marker', cursive;
+    background: url("https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=740&t=st=1668129845~exp=1668130445~hmac=942a4fbb3a20cfc12712077bad4adda32d1ea91507efaae66f2661a6f0975261") ;
+    background-size: cover;
+    text-align: center;
+}
+
+h2{ 
+
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+}
+
+button{
+
+    padding: 15px 40 px;
+    font-size: 22px;
+    background: transparent;
+    border: 3px solid #eaeef1;
+    color: #fafafa;
+    cursor: pointer;
+    transition: .5s;
+    margin: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+button:hover{
+
+    border: 3px solid #D4ECDD;
+    color: rgb(243, 243, 243);
+    border-radius: 30px;
+    background: #345B63;
+
+}
+
